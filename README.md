@@ -4,7 +4,7 @@
  
 * Inspired from [kweonwooj/papers](https://github.com/kweonwooj/papers)
 
-* I try to follow this loosely on my posts:
+* Points to look for in a paper:
 ``` 
 1. What previous research and ideas were cited that this paper is building off of? (this info tends to live in the introduction)
 2. Was there reasoning for performing this research, if so what was it? (introduction section)
@@ -21,3 +21,8 @@
 13. What key terms and concepts do I not know and need to look up in a dictionary, textbook, or ask someone?
 14. What are your thoughts on the results? Do they seem valid?
 ```
+
+## Papers
+
+1. [Hybrid computing using a neural network with dynamic external memory](Summary/dnc.md)
+
