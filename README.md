@@ -1,7 +1,13 @@
 # ResearchPapers
 
-* This repo is intended to keep track and hold summaries of research papers I read. I hold this mainly for my personal reference.
- 
+This repo is intended to keep track and hold summaries of research papers I read. I hold this mainly for my personal reference. 
+
+## Papers
+
+1. [Hybrid computing using a neural network with dynamic external memory](Summary/dnc.md)
+
+## Misc
+
 * Inspired from [kweonwooj/papers](https://github.com/kweonwooj/papers)
 
 * Points to look for in a paper:
@@ -22,7 +28,5 @@
 14. What are your thoughts on the results? Do they seem valid?
 ```
 
-## Papers
 
-1. [Hybrid computing using a neural network with dynamic external memory](Summary/dnc.md)
 
