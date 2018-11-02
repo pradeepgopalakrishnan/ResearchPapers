@@ -6,6 +6,7 @@ This repo is intended to keep track and hold summaries of research papers I read
 
 1. [Hybrid computing using a neural network with dynamic external memory](Summary/dnc.md)
 2. [A Clockwork RNN](Summary/cwrnn.md)
+3. [Differentiable Architecture Search](Summary/darts.md)
 
 ## Misc
 
