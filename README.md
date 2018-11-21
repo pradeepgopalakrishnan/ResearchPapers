@@ -8,6 +8,8 @@ This repo is intended to keep track and hold summaries of research papers I read
 2. [A Clockwork RNN](Summary/cwrnn.md)
 3. [Differentiable Architecture Search](Summary/darts.md)
 4. [Deep Complex Networks](Summary/deepcomplex.md)
+5. [How does BN help Optimization?](Summary/effofBN.md)
+
 
 ## Misc
 
